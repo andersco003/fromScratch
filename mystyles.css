@@ -1,0 +1,53 @@
+/* Style for the whole page */
+body {
+    background-color: whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #333333;
+}
+
+/* Header section */
+.header {
+    background-color: #00D0D4;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+/* Navigation section */
+.nav {
+    background-color: #01E305;
+    padding: 10px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+/* Main content section */
+.content {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Footer section */
+.footer {
+    background-color: black;
+    color: white;
+    height: 25px;
+    line-height: 25px;
+    position: fixed;
+    bottom:0px;
+    right: 0px;
+    left: 0px;
+}
+
+
+/* Style for links */
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
